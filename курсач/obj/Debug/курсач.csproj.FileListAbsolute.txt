@@ -1,0 +1,57 @@
+F:\учеба\КПиЯП\курсач\курсач\bin\Debug\курсач.exe.config
+F:\учеба\КПиЯП\курсач\курсач\bin\Debug\курсач.exe
+F:\учеба\КПиЯП\курсач\курсач\bin\Debug\курсач.pdb
+F:\учеба\КПиЯП\курсач\курсач\obj\Debug\курсач.csprojResolveAssemblyReference.cache
+F:\учеба\КПиЯП\курсач\курсач\obj\Debug\курсач.Form1.resources
+F:\учеба\КПиЯП\курсач\курсач\obj\Debug\курсач.Properties.Resources.resources
+F:\учеба\КПиЯП\курсач\курсач\obj\Debug\курсач.csproj.GenerateResource.Cache
+F:\учеба\КПиЯП\курсач\курсач\obj\Debug\курсач.exe
+F:\учеба\КПиЯП\курсач\курсач\obj\Debug\курсач.pdb
+F:\учеба\КПиЯП\курсач\курсач\obj\Debug\курсач.Form2.resources
+F:\учеба\КПиЯП\курсач\курсач\obj\Debug\курсач.Form4.resources
+F:\учеба\КПиЯП\курсач\курсач\obj\Debug\курсач.Form5.resources
+F:\учеба\КПиЯП\курсач\курсач\obj\Debug\курсач.GlobalTrash.MyGlobalTrash.resources
+F:\учеба\КПиЯП\курсач\курсач\obj\Debug\курсач.Form6.resources
+F:\учеба\КПиЯП\курсач\курсач\obj\Debug\курсач.Form7.resources
+F:\учеба\КПиЯП\курсач\курсач\obj\Debug\курсач.Form8.resources
+F:\учеба\КПиЯП\курсач\курсач\obj\Debug\курсач.Form9.resources
+F:\учеба\КПиЯП\курсач\курсач\obj\Debug\курсач.Form10.resources
+F:\учеба\КПиЯП\курсач\курсач\obj\Debug\курсач.Form11.resources
+F:\Курсовые КПиЯП\КПиЯП\курсач\курсач\bin\Debug\курсач.exe.config
+F:\Курсовые КПиЯП\КПиЯП\курсач\курсач\obj\Debug\курсач.exe
+F:\Курсовые КПиЯП\КПиЯП\курсач\курсач\obj\Debug\курсач.pdb
+F:\Курсовые КПиЯП\КПиЯП\курсач\курсач\bin\Debug\курсач.exe
+F:\Курсовые КПиЯП\КПиЯП\курсач\курсач\bin\Debug\курсач.pdb
+F:\Курсовые КПиЯП\КПиЯП\курсач\курсач\obj\Debug\курсач.csprojResolveAssemblyReference.cache
+F:\Курсовые КПиЯП\КПиЯП\курсач\курсач\obj\Debug\курсач.Form1.resources
+F:\Курсовые КПиЯП\КПиЯП\курсач\курсач\obj\Debug\курсач.Form10.resources
+F:\Курсовые КПиЯП\КПиЯП\курсач\курсач\obj\Debug\курсач.Form11.resources
+F:\Курсовые КПиЯП\КПиЯП\курсач\курсач\obj\Debug\курсач.Form2.resources
+F:\Курсовые КПиЯП\КПиЯП\курсач\курсач\obj\Debug\курсач.GlobalTrash.MyGlobalTrash.resources
+F:\Курсовые КПиЯП\КПиЯП\курсач\курсач\obj\Debug\курсач.Form4.resources
+F:\Курсовые КПиЯП\КПиЯП\курсач\курсач\obj\Debug\курсач.Form5.resources
+F:\Курсовые КПиЯП\КПиЯП\курсач\курсач\obj\Debug\курсач.Form6.resources
+F:\Курсовые КПиЯП\КПиЯП\курсач\курсач\obj\Debug\курсач.Form7.resources
+F:\Курсовые КПиЯП\КПиЯП\курсач\курсач\obj\Debug\курсач.Form8.resources
+F:\Курсовые КПиЯП\КПиЯП\курсач\курсач\obj\Debug\курсач.Form9.resources
+F:\Курсовые КПиЯП\КПиЯП\курсач\курсач\obj\Debug\курсач.Properties.Resources.resources
+F:\Курсовые КПиЯП\КПиЯП\курсач\курсач\obj\Debug\курсач.csproj.GenerateResource.Cache
+D:\Курсовые\КПиЯП\курсач\курсач\bin\Debug\курсач.exe.config
+D:\Курсовые\КПиЯП\курсач\курсач\obj\Debug\курсач.exe
+D:\Курсовые\КПиЯП\курсач\курсач\obj\Debug\курсач.pdb
+D:\Курсовые\КПиЯП\курсач\курсач\bin\Debug\курсач.exe
+D:\Курсовые\КПиЯП\курсач\курсач\bin\Debug\курсач.pdb
+D:\Курсовые\КПиЯП\курсач\курсач\obj\Debug\курсач.csprojResolveAssemblyReference.cache
+D:\Курсовые\КПиЯП\курсач\курсач\obj\Debug\курсач.Form1.resources
+D:\Курсовые\КПиЯП\курсач\курсач\obj\Debug\курсач.Form10.resources
+D:\Курсовые\КПиЯП\курсач\курсач\obj\Debug\курсач.Form11.resources
+D:\Курсовые\КПиЯП\курсач\курсач\obj\Debug\курсач.Form2.resources
+D:\Курсовые\КПиЯП\курсач\курсач\obj\Debug\курсач.GlobalTrash.MyGlobalTrash.resources
+D:\Курсовые\КПиЯП\курсач\курсач\obj\Debug\курсач.Form4.resources
+D:\Курсовые\КПиЯП\курсач\курсач\obj\Debug\курсач.Form5.resources
+D:\Курсовые\КПиЯП\курсач\курсач\obj\Debug\курсач.Form6.resources
+D:\Курсовые\КПиЯП\курсач\курсач\obj\Debug\курсач.Form7.resources
+D:\Курсовые\КПиЯП\курсач\курсач\obj\Debug\курсач.Form8.resources
+D:\Курсовые\КПиЯП\курсач\курсач\obj\Debug\курсач.Form9.resources
+D:\Курсовые\КПиЯП\курсач\курсач\obj\Debug\курсач.Properties.Resources.resources
+D:\Курсовые\КПиЯП\курсач\курсач\obj\Debug\курсач.csproj.GenerateResource.Cache
